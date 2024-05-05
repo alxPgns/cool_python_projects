@@ -1,1 +1,1 @@
-# cool_python_projects
+# cool_python_scripts
